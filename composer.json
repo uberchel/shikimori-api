@@ -2,8 +2,6 @@
     "name": "uberchel/shikimori-api",
     "description": "Shikimori API, searching and getting information by ID or name ",
     "homepage": "https://github.com/uberchel/shikimori-api",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "keywords": [
         "ShikimoriAPI", "Shikimori API", "Shikimori parser", "Anime", "php"
     ],
