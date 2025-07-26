@@ -1,0 +1,23 @@
+{
+    "name": "uberchel/ShikimoriAPI",
+    "description": "Shikimori API, searching and getting information by ID or name ",
+    "homepage": "https://github.com/uberchel/ShikimoriAPI",
+    "keywords": [
+        "ShikimoriAPI", "Shikimori API", "Shikimori parser", "Anime", "php"
+    ],
+    "authors": [
+        {
+          "name": "UberCHEL",
+          "homepage": "https://github.com/uberchel/ShikimoriAPI"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "uberchel\\": ""
+        }
+    },
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2"
+    }
+}
