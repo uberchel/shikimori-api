@@ -5,7 +5,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "keywords": [
-        "ShikimoriAPI", "Shikimori API", "Shikimori parser", "Anime", "php"
+        "ShikimoriAPI", "Shikimori API", "Shikimori parser", "Shikimori", "Anime", "php"
     ],
     "authors": [
         {

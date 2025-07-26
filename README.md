@@ -60,7 +60,7 @@ var_dump($shiki->call('getAnime', [
 
 ### clone the repository and install the requirements
 ```bash
-git clone https://github.com/uberchel/ShikimoriAPI
+git clone https://github.com/uberchel/shikimori-api
 ```
 
 ## LICENSE
