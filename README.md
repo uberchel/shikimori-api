@@ -11,7 +11,7 @@ Version: 1.0.0
 ## Installation
 No complicated installation, just transfer or copy the class file to your projector and install it using compose
 ```bash
-composer require uberchel/ShikimoriAPI
+composer require uberchel/shikimori-api
 ```
 
 ## Using
