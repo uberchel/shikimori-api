@@ -1,14 +1,14 @@
 {
-    "name": "uberchel/ShikimoriAPI",
+    "name": "uberchel/shikimori-api",
     "description": "Shikimori API, searching and getting information by ID or name ",
-    "homepage": "https://github.com/uberchel/ShikimoriAPI",
+    "homepage": "https://github.com/uberchel/shikimori-api",
     "keywords": [
         "ShikimoriAPI", "Shikimori API", "Shikimori parser", "Anime", "php"
     ],
     "authors": [
         {
           "name": "UberCHEL",
-          "homepage": "https://github.com/uberchel/ShikimoriAPI"
+          "homepage": "https://github.com/uberchel/shikimori-api"
         }
     ],
     "autoload": {
